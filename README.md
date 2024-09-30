@@ -6,16 +6,16 @@ This project analyzes the operational performance of the AdventureWorks company 
 
 ## Data Analytics Process
 
-- **Objective**: Identify areas for improvement in:
+**Objective**: Identify areas for improvement in:
   - Production process
   - Supplier performance
   - Quality control
   - Inventory management
   - Cost analysis
 
-- **Data**: AdventureWorks database, analyzing tables related to production, suppliers, and inventory.
+**Data**: AdventureWorks database, analyzing tables related to production, suppliers, and inventory.
 
-- **Metrics Analyzed**:
+**Metrics Analyzed**:
   1. **Production**: 
      - Production value/time, cost over time, total produced items
      - Avg. lead time, on-time production, production delays
@@ -28,14 +28,14 @@ This project analyzes the operational performance of the AdventureWorks company 
   5. **Cost Analysis**:
      - Profit, Cost of Goods Sold (COGS), price of goods sold, profit margins
 
-- **Key Insights**:
+**Key Insights**:
   1. **Production**: Production peaked early but slowed; average cost reduced but rising again. 42% of work orders are deleted, and average delay time is 6 days.
   2. **Supplier Performance**: $50M in purchases, $2M in rejected items. 
   3. **Quality**: Defect rates are low but increasing, with most defects occurring in sub-assembly and final assembly stages.
   4. **Inventory**: 85K products in stock worth $20M, with $8M in unsold items.
   5. **Cost Analysis**: COGS is $100M, and profit has decreased since June 2002. 19% of products sold do not generate profit.
 
-- **Recommendations**:
+**Recommendations**:
   1. **Production**: Investigate deleted work orders and potential supply chain delays. Monitor rising production costs.
   2. **Supplier Performance**: Replace poor-performing vendors and negotiate better deals.
   3. **Quality**: Allocate resources to training or equipment recalibration for defect-prone processes.
