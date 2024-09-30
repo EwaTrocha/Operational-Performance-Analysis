@@ -1,8 +1,8 @@
 # Operational Performance Analysis - AdventureWorks
 
-Dashboard for the project can be found [here](https://public.tableau.com/views/OperationalPerformanceAnalysis_17277162966000/Executive?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The dashboard for the project can be foundb [here](https://public.tableau.com/views/OperationalPerformanceAnalysis_17277162966000/Executive?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-File connected to Tableau can be found [here](https://docs.google.com/spreadsheets/d/1U5qGfBXu5yngVBq4vvSiKpDotgLvOmJS/edit?usp=sharing&ouid=109411228462540015871&rtpof=true&sd=true)
+The file connected to Tableau can be found [here](https://docs.google.com/spreadsheets/d/1U5qGfBXu5yngVBq4vvSiKpDotgLvOmJS/edit?usp=sharing&ouid=109411228462540015871&rtpof=true&sd=true)
 
 This project analyzes the operational performance of the AdventureWorks company to identify bottlenecks, problems, and opportunities for improvement, focusing on production, suppliers, quality, inventory, and costs.
 
